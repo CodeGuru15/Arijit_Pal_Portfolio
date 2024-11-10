@@ -8,7 +8,7 @@ const Home = () => {
       <div className="flex flex-col justify-center h-full">
         <div className="flex z-30 w-full justify-center h-[40%] items-center">
           <img
-            src="./src/assets/profilePic.jpg"
+            src="profilePic.jpg"
             alt="Profile Pic"
             className="h-40 rounded-full shadow-custom shadow-gold sm:h-64"
           />

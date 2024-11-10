@@ -8,7 +8,7 @@ const About = () => {
     setMore(!more);
   };
   return (
-    <div className="flex flex-col h-screen bg-fixed overflow-hidden tracking-wide bg-cover bg-[url('./src/assets/about.jpg')] text-white">
+    <div className="flex flex-col h-screen bg-fixed overflow-hidden tracking-wide bg-cover bg-[url('/about.jpg')] text-white">
       <div className="flex flex-col h-full bg-slate-950 bg-opacity-90 place-content-center">
         <div className="flex flex-col p-5 place-content-center">
           <div className="flex p-2 text-2xl font-bold sm:text-3xl md:text-5xl">
