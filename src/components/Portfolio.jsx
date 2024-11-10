@@ -18,7 +18,7 @@ const Portfolio = () => {
     },
   ];
   return (
-    <div className="min-h-screen flex items-center bg-[url('hex.png')] overflow-hidden bg-fixed  text-white/80 bg-cover bg-no-repeat">
+    <div className="min-h-screen flex items-center bg-[url('./src/assets/hex.png')] overflow-hidden bg-fixed  text-white/80 bg-cover bg-no-repeat">
       <div className="flex flex-col items-center w-full min-h-screen p-5 bg-opacity-70 bg-slate-950 place-content-center">
         <div className="p-3 text-2xl font-semibold tracking-wider sm:text-3xl">
           MY <span className="text-gold ">PORTFOLIO</span>
