@@ -4,7 +4,7 @@ import GoldBar from "./GoldBar";
 const Home = () => {
   return (
     <div className="relative h-screen overflow-hidden text-white/80 bg-slate-950">
-      <GoldBar />
+      {/* <GoldBar /> */}
       <div className="flex flex-col justify-center h-full">
         <div className="flex z-30 w-full justify-center h-[40%] items-center">
           <img
